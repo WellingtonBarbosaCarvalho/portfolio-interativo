@@ -37,9 +37,6 @@ portfolio/
 ├── script.js       # Funcionalidades e interatividade
 └── README.md       # Documentação do projeto
 
-yaml
-Copiar código
-
 ---
 
 ## **📌 Sobre Mim**
