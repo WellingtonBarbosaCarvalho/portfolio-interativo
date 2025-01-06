@@ -29,7 +29,13 @@ Este projeto foi desenvolvido para apresentar minhas habilidades como Desenvolve
 ---
 
 ## **📂 Estrutura do Projeto**
-portfolio/ ├── index.html # Estrutura do site ├── styles.css # Estilização e layout ├── script.js # Funcionalidades e interatividade └── README.md # Documentação do projeto
+
+```plaintext
+portfolio/
+├── index.html      # Estrutura do site
+├── styles.css      # Estilização e layout
+├── script.js       # Funcionalidades e interatividade
+└── README.md       # Documentação do projeto
 
 yaml
 Copiar código
